@@ -2,6 +2,7 @@
 <b> Programa K </b>
 
 Time: Amir Youssef, Bernardo Aires, Daniel Machado, Emanuelle Passos, Victor Lucas
+
 <b> Ideia: </b>
 Hoje em dia, muitas empresas lidam com uma GRANDE QUANTIDADE de TEXTOS diariamente, geralmente, vindo de seus clientes, os quais emitem suas opiniões, comentários, avaliações etc. Tais textos, muitas das vezes, apresentam informações (dados) de grande importância para o crescimento, isto é, melhoria de produtos e serviços da empresa. Contudo, a não ESCALABILIDADE da análise desses textos e a TENDENCIOSIDADE HUMANA limitam essa análise.
 
