@@ -1,1 +1,1 @@
-API_KEY = "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"
+API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
